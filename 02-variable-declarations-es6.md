@@ -8,7 +8,7 @@ date: 2018-08-21
 
 # var vs let vs const: Variable declarations in ES6 | ES2015
 
-**:hatching_chick: Variable, Initialization, and Scope**
+## :hatching_chick: Variable, Initialization, and Scope
 
 - `Variable`
 
@@ -109,7 +109,7 @@ date: 2018-08-21
   - Once the variables are initialized, they can then be `referenced`.
   - For instance, JavaScript will find a reference to the `discounted` varaible within this function. If a reference isn't found, it then adds `discounted` as a property to the global scope.
 
-**:memo: `var` vs. `let` vs. `const`**
+## :memo: `var` vs. `let` vs. `const`
 
 - `var`
   - function scoped
@@ -170,7 +170,7 @@ date: 2018-08-21
 
   - Therefore, `const` does not imply immutability since things can be modified
 
-**:woman_shrugging: So which one should we use!?**
+## :woman_shrugging: So which one should we use!?
 
 - TL;DR
   - :white_check_mark: Always use `const` unless the value changes, then use `let`

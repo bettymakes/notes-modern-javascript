@@ -8,7 +8,7 @@ date: 2018-08-21
 
 # ECMAScript, TC39, and the Standardization Process
 
-**:hatching_chick: JavaScript's origin**
+## :hatching_chick: JavaScript's origin
 
 - Around 1995, `Netscape Navigator` was the most popular web browser (~80% marketshare)
 - Marc Andreessen, the founder of `Netscape` (company behind `Netscape Navigator`), envisioned the web to do more than just share documents:
@@ -25,7 +25,7 @@ date: 2018-08-21
   - `Java`
     - The professional tool to build rich web components
 
-**:woman_facepalming: Browser support problems**
+## :woman_facepalming: Browser support problems
 
 - In order for Microsoft's browser, `Internet Explorer`, to stay competitive and support enriched client-side experierences, they created their own language called `JScript`
 - `JScript`'s implementation was different than `JavaScript` so you couldn't build a website that would work in both browsers
@@ -33,7 +33,7 @@ date: 2018-08-21
 
 ![Best viewed with IE and Netscape buttons](https://screenshot.click/2018-30-17-9omfz-475o7.jpg)
 
-**:earth_americas: ECMA International**
+## :earth_americas: ECMA International
 
 - ECMA International is an industry association dedicated to the _standarization of information and communication systems_
 - In November of 1996, Netscape submitted JavaScript to ECMA to build out a standard specification
@@ -46,12 +46,12 @@ date: 2018-08-21
     - `Committee` => TC-39
   - Official name is `ECMAScript`, because `JavaScript` was trademarked by Oracle. To avoid any conflicts, ECMA named it `ECMAScript`
 
-**:rose: What's in a name?**
+## :rose: What's in a name?
 
 - `ECMAScript` is used to refer to the `Standard`
 - `JavaScript` is used to refer to the language in practice
 
-**:calendar: `TC-39` Release Schedule**
+## :calendar: `TC-39` Release Schedule
 
 - The _Technical Committee_ consists of various `Members` who typically are companies that are heavily invested in the Web
 - Members (aka companies/browser vendors) send `Delegates` who represent those companies
